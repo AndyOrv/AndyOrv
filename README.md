@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is a test file, I will fill this out late, much love 😄
+This is a test file, I will fill this out later, much love 😄
