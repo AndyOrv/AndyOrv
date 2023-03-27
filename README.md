@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is a test file, I will fill this out later, much love 😄
+I am a ambitious computer scientist with a strong foundation in mathematics. Adept at proposing new ideas, guiding and coordinating teams, and managing tasks. Passionate and driven towards Game design and development in which to create meaningful and purposeful projects.
+
+​
+
+First-class BSc & MSc in Computer Science and Game Engineering
